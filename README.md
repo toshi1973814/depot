@@ -1,6 +1,6 @@
 # README
 
-This is my private sandbox for new technologies.
+This is a private sandbox with new technologies around RubyOnRails.
 
 I've tried many technologies like ...
 
@@ -11,7 +11,8 @@ I've tried many technologies like ...
 
     https://circleci.com/gh/toshi1973814/depot
 
+* Material Design Lite
+
 And I want to try some more technologies like ...
 
-* Material Design Lite
 * Angular(& SPA)
