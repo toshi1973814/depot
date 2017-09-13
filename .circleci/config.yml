@@ -40,4 +40,8 @@ jobs:
       # Save artifacts
       - type: store_test_results
         path: /tmp/test-results
+        destination: rspec-results
+      - type: store_test_results
+        path: ~/circleci-demo-ruby-rails/coverage
+        destination: coverage-reports
 
