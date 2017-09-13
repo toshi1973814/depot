@@ -1,24 +1,15 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is my private sandbox for new technologies.
 
-Things you may want to cover:
+I've tried many technologies like ...
 
-* Ruby version
+* docker-compose
+* CircleCI
+* Rubocop-CircleCI integration
 
-* System dependencies
+And I want to try some more technologies like ...
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Material Design Lite
+* Angular(& SPA)
+* SimpleCov-CircleCI integration
